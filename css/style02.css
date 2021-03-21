@@ -61,9 +61,12 @@ body {
     background-repeat: no-repeat;
 }
 
-/* .bg02 {
+.bg02 {
     background-image: url('../img/sausage.png');
-} */
+}
+.bg03 {
+    /* background-image: url('../img/sausage.png'); */
+}
 
 .bg04 {
     background-image: url('../img/sorry.png');
